@@ -3,6 +3,6 @@
 
 [![X (Twitter) Follow](https://img.shields.io/badge/follow-@numoforex-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/numoforex)
 
-**Numo protects businesses from FX risk in frontier markets.** Frontier foreign currencies such as the Kenyan Schilling (KES) are hard to hedge despite a dire need among SMEs. Numo addresses this problem by offering FX forwards at significantly lower cost and with greater access to traditional hedging methods. 
-  
+**Numo** lets importers and exporters pay across borders instantly at true interbank FX rates — no spreads, no delays.
+
 </div>
