@@ -3,6 +3,6 @@
 
 [![X (Twitter) Follow](https://img.shields.io/badge/follow-@numoforex-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/numoforex)
 
-[Numo](numofx.com) lets importers and exporters pay across borders instantly at true interbank FX rates — no spreads, no delays.
+[Numo](numofx.com) lets importers and exporters pay vendors across borders at true interbank FX rates — no spreads, no delays.
 
 </div>
