@@ -3,6 +3,6 @@
 
 [![X (Twitter) Follow](https://img.shields.io/badge/follow-@numoforex-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/numoforex)
 
-[Numo](numofx.com) lets importers and exporters **lock in FX rates**, no more currency risk.
+[Numo](numofx.com) creates **onchain markets for FX** with predictable rates.
 
 </div>
