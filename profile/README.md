@@ -3,6 +3,5 @@
 
 [![X (Twitter) Follow](https://img.shields.io/badge/follow-@numoforex-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/numoforex)
 
-[Numo](numofx.com) is an onchain money market for stablecoins with fixed rate, short term borrowing. It produces a yield curve from which forwards, swaps, and options across FX can be priced, hedged, and settled.
-
+[Numo](numofx.com) is a derivatives exchange for frontier FX that protects MFIs and cross border businesses from currency risk in emerging markets.
 </div>
