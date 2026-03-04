@@ -3,5 +3,5 @@
 
 [![X (Twitter) Follow](https://img.shields.io/badge/follow-@numoforex-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/numoforex)
 
-[Numo](numofx.com) is a derivatives exchange for frontier FX that protects MFIs and cross border businesses from currency risk in emerging markets.
+[Numo](numofx.com) is a derivatives exchange for frontier FX. Protect against currency volatility in emerging markets.
 </div>
